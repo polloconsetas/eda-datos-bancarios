@@ -1,5 +1,3 @@
-(Copia y guarda como `informe.md`)**
-```markdown
 # 📑 Informe del Análisis de Datos Bancarios
 
 ## 1️⃣ Introducción
